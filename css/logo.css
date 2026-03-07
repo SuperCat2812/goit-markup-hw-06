@@ -31,9 +31,8 @@
   color: #f4f4fd;
 }
 
-
-.logo-container{
- @media screen and (min-width: 1157px) {
-   margin-right: 120px; ;
+.logo-container {
+  @media screen and (min-width: 1157px) {
+    margin-right: 120px;
   }
 }

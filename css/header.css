@@ -87,14 +87,14 @@
     flex-direction: column;
     gap: 12px;
   }
-    @media screen and (min-width: 1158px) {
-  flex-direction: row;
-  gap: 40px;
+  @media screen and (min-width: 1158px) {
+    flex-direction: row;
+    gap: 40px;
   }
 }
 
 .contact-link {
-    display: block;
+  display: block;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;

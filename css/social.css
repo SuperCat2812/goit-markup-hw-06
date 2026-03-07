@@ -40,8 +40,8 @@
   display: flex;
   gap: 16px;
   fill: #f4f4fd;
-   @media screen and (max-width: 767px) {
-    justify-content: center ;
+  @media screen and (max-width: 767px) {
+    justify-content: center;
   }
 }
 
@@ -52,7 +52,7 @@
 .social-footer {
   display: flex;
   flex-direction: column;
-  
+
   @media screen and (min-width: 1157px) {
     margin-right: auto;
   }
