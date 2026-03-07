@@ -92,6 +92,7 @@
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
+  display: flex;
 }
 
 .review-from-custom-checkbox {
@@ -126,11 +127,6 @@
 
 .agreement-checkbox:checked + .modal-agreement .checkbox-wrapper {
   fill: #f4f4fd;
-}
-
-.modal-overlay.is-open {
-  opacity: 1;
-  pointer-events: auto;
 }
 
 
